@@ -1,3 +1,3 @@
 # vue-shop
 
-Learning Vue 3.
+Learning Vue 3 and Vuex.
